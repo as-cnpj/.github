@@ -34,10 +34,12 @@ pip install ascnpj
 ### Links
 
 - 🌐 [as-cnpj.org](https://as-cnpj.org) — Site e documentação
-- 📋 [Auditoria de segurança](https://github.com/as-cnpj/as-cnpj/blob/main/AUDIT.md)
-- 🛡️ [Política de segurança](https://github.com/as-cnpj/as-cnpj/blob/main/SECURITY.md)
-- 🤝 [Como contribuir](https://github.com/as-cnpj/as-cnpj/blob/main/CONTRIBUTING.md)
-- 💬 [Discussions](https://github.com/as-cnpj/as-cnpj/discussions) — Apoiadores e implementações
+- 📖 [Documentação](https://as-cnpj.org/pt/docs) — API, regras, vetores, especificação
+- 📋 [Auditoria de segurança](https://as-cnpj.org/pt/docs?page=audit)
+- 🛡️ [Política de segurança](https://as-cnpj.org/pt/docs?page=security-policy)
+- 🤝 [Como contribuir](https://as-cnpj.org/pt/docs?page=contributing)
+- 💬 [Comunidade](https://as-cnpj.org/pt/community) — Apoiadores e implementações
+- 🗣️ [Discussions](https://github.com/as-cnpj/as-cnpj/discussions) — Enviar apoio ou depoimento
 
 ### Maintainer
 
