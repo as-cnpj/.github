@@ -18,8 +18,8 @@ A Receita Federal anunciou que a partir de **julho de 2026** o CNPJ passará a a
 | Repo | Descrição | Status |
 | --- | --- | --- |
 | [as-cnpj](https://github.com/as-cnpj/as-cnpj) | Hub central — manifesto, especificação, vetores de teste e governança | Ativo |
-| [as-cnpj-js](https://github.com/as-cnpj/as-cnpj-js) | Biblioteca autoral para JavaScript e TypeScript | Publicado |
-| [as-cnpj-python](https://github.com/as-cnpj/as-cnpj-python) | Biblioteca autoral para Python | Implementado |
+| [as-cnpj-js](https://github.com/as-cnpj/as-cnpj-js) | Biblioteca autoral para JavaScript e TypeScript | Publicado no npm |
+| [as-cnpj-python](https://github.com/as-cnpj/as-cnpj-python) | Biblioteca autoral para Python | Publicado no PyPI |
 
 ### Instalação rápida
 
@@ -28,13 +28,14 @@ npm install @ascnpj/core
 ```
 
 ```python
-pip install ascnpj
+pip install as-cnpj
 ```
 
 ### Links
 
 - 🌐 [as-cnpj.org](https://as-cnpj.org) — Site e documentação
 - 📖 [Documentação](https://as-cnpj.org/pt/docs) — API, regras, vetores, especificação
+- 📦 [PyPI — as-cnpj](https://pypi.org/project/as-cnpj/)
 - 📋 [Auditoria de segurança](https://as-cnpj.org/pt/docs?page=audit)
 - 🛡️ [Política de segurança](https://as-cnpj.org/pt/docs?page=security-policy)
 - 🤝 [Como contribuir](https://as-cnpj.org/pt/docs?page=contributing)
